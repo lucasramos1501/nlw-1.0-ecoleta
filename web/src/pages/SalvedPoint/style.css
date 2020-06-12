@@ -1,0 +1,17 @@
+#salved-point{
+    height: 100vh;
+    display: flex;           
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;   
+    
+}
+
+#salved-point .icon{
+    font-size: 8em;
+    color: #2FB86E;
+}
+
+#salved-point  h1{
+    font-size: 3em;
+}
