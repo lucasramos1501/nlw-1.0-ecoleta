@@ -3,12 +3,16 @@
 # *Ecoleta*
 
 ## Descrição
-    Markteplace desenvolvido na Next Level Weak durante os dias 01 até 07 de junho, 
+    Markteplace desenvolvido na Next Level Weak durante os dias 01 até 07 de junho,
     realizada pela Rocketseat. À aplicação possui como finalidade facilitar o
     coleta de resíduos, baseado na localização e no tipo de resíduos. 
 ## Layout
     O layout da aplicação você pode encotrar [aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 ## Instalação
+### Node.js
+	Você precisa do node instalado na sua máquina para que os passoas abaixo funcionem, 
+	caso não possui pode estar baixando o mesmo [aqui](https://nodejs.org/en/download/). 
+### Projeto
 ```bash
 	# Primeiro clone o repositório
 	git clone https://github.com/lucasramos1501/nlw-1.0-ecoleta
@@ -20,7 +24,10 @@
 ```bash
 	# Acesse o diretório do server
 	cd server
-
+	
+	# Instalar módulos
+	npm install
+	
 	# Arquivo sqlite
 	npm run knex:migrate
 
@@ -34,7 +41,10 @@
 ```bash
 	# Acesse o diretório do server
 	cd web
-
+	
+	# Instalar módulos
+	npm install
+	
 	# inciar 
 	npm run start
 ```
@@ -42,6 +52,9 @@
 ```bash
 	# Acesse o diretório do server
 	cd mobile
+	
+	# Instalar módulos
+	npm install
 
 	# inciar 
 	npm run start
