@@ -7,11 +7,11 @@
     realizada pela Rocketseat. À aplicação possui como finalidade facilitar o
     coleta de resíduos, baseado na localização e no tipo de resíduos. 
 ## Layout
-    O layout da aplicação você pode encotrar [aqui](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
+    O layout da aplicação você pode encotrar <a href="https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/>aqui</a>
 ## Instalação
 ### Node.js
 	Você precisa do node instalado na sua máquina para que os passoas abaixo funcionem, 
-	caso não possui pode estar baixando o mesmo [aqui](https://nodejs.org/en/download/). 
+	caso não possui pode estar baixando o mesmo <a href="https://nodejs.org/en/download/>aqui</a>
 ### Projeto
 ```bash
 	# Primeiro clone o repositório
